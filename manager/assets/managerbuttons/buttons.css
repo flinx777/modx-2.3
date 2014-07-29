@@ -42,6 +42,7 @@
     padding: 0px 15px 0px 30px;
     text-decoration: none;
     vertical-align: middle;
+    text-align: left;
 
     /* MODX 2.x.x Manager Button Styles */
     font: bold 11px tahoma, verdana, helvetica, sans-serif;
